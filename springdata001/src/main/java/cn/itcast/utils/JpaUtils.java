@@ -26,4 +26,9 @@ public class JpaUtils {
     public static EntityManager getEntityManager() {
        return factory.createEntityManager();
     }
+
+
+    public void testt(){
+
+    }
 }
